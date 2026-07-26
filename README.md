@@ -112,15 +112,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/dipteshkumar28/dipteshkumar28/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
