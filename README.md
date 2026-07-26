@@ -13,26 +13,45 @@
 - 🤖 Building intelligent AI applications using **LangChain, LangGraph & MCP**
 - ⚡ Full Stack Developer with **React + FastAPI**
 - 💬 Ask me about **Python, FastAPI, React, PostgreSQL, SQLAlchemy, LangChain**
-- 📫 Reach me at **your_email@gmail.com**
+- 📫 Reach me at **dipteshsongara2004@gmail.com**
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python" height="60"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="60"/>
-<img src="https://skillicons.dev/icons?i=react" height="60"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="60"/>
-<img src="https://skillicons.dev/icons?i=typescript" height="60"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="60"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
-<img src="https://skillicons.dev/icons?i=docker" height="60"/>
-<img src="https://skillicons.dev/icons?i=git" height="60"/>
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-<img src="https://skillicons.dev/icons?i=linux" height="60"/>
+### 🤖 GenAI & AI Frameworks
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2962FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Context_Engineering-009688?style=for-the-badge"/>
+
+<br><br>
+
+### 🧠 AI/ML Tools
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tavily_API-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FAISS-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-6A1B9A?style=for-the-badge"/>
+
+<br><br>
+
+### 🌐 Backend & Web Development
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,tailwind,git,github,docker,vscode,postman" />
+
+<br><br>
+
+### 🧪 Testing
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Integration_Testing-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Evaluation-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Evaluation-795548?style=for-the-badge"/>
 
 </p>
 
@@ -45,7 +64,6 @@
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-purple?style=for-the-badge"/>
@@ -74,25 +92,15 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipteshkumar28&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipteshkumar28&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipteshkumar28&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dipteshkumar28&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
 
 ## 📈 Contribution Graph
 
